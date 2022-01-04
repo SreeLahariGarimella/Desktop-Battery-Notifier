@@ -5,4 +5,5 @@ A battery notifier is a simple application that produces a notification message 
 **Project Libraries**
 
 1.Plyer
+
 2.Psutil
